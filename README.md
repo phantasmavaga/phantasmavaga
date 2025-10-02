@@ -2,8 +2,10 @@
 <h3 align="center">🐧 Özgür yazılım ve Linux tutkunu bir geliştirici</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phantasmavaga&label=Profil%20Görüntüleme&color=blueviolet&style=flat" alt="Profil görüntüleme" />
+  <img src="https://komarev.com/ghpvc/?username=phantasmavaga&label=Profil%20Görüntüleme&color=blueviolet&style=flat" alt="phantasmavaga" />
+  <a href="https://github.com/phantasmavaga?tab=repositories"><img src="https://img.shields.io/badge/Projelerim-Açık%20Kaynak-blue" alt="Open Source Projects"></a>
 </p>
+
 
 <div align="center">
   
