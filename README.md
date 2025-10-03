@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, Ben Phantasmavaga</h1>
+<h1 align="center">👋 Merhaba, Ben phantasmavaga</h1>
 <h3 align="center">🐧 Özgür yazılım ve Linux tutkunu bir geliştirici</h3>
 
 <p align="center">
