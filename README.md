@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Projelerim-Açık%20Kaynak-blue" alt="Open Source Projects"/>
 </p>
 
+
 <p align="center"><b>"Özgür yazılım, özgür toplum demektir."</b></p>
 
 ---
